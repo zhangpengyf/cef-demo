@@ -1,0 +1,6 @@
+/*.opensdf
+/*.sdf
+/*.suo
+/Debug/cef-demo.exe
+/Debug/cef-demo.pdb
+/lib/Debug/cef_sandbox.lib
